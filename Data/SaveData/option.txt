@@ -1,0 +1,2 @@
+music_value: 1
+sfx_value: 1
