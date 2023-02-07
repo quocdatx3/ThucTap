@@ -34,3 +34,9 @@ Cải thiện đồ họa và âm thanh:
   Thêm background, texture platform.
   
   Thêm nhạc nền, nhạc hiệu ứng.
+  
+![alt text](https://raw.githubusercontent.com/quocdatx3/ThucTap/main/IMG/Picture2.png)
+
+![alt text](https://raw.githubusercontent.com/quocdatx3/ThucTap/main/IMG/Picture5.png)
+
+![alt text](https://raw.githubusercontent.com/quocdatx3/ThucTap/main/IMG/Picture1.png)
